@@ -1,4 +1,0 @@
-# SDCND
-
-Project 1:
-
